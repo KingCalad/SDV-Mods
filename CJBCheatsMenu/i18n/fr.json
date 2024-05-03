@@ -142,7 +142,7 @@
     /*********
     ** Warps tab
     *********/
-    "warp.customized-warning": "These warps were edited by your mods. Please report warp issues to the mods which added them if applicable.", // TODO
+    "warp.customized-warning": "Ces emplacements de teleportations ont été modifiés par vos mods. S'il vous plaît, rapporter les problèmes avec ces emplacements de teleportations aux mods qui les ont ajoutés.", // TODO
 
     // main areas
     "warp-section.main": "Zones principales",
@@ -252,13 +252,13 @@
     ** Generic Mod Config Menu UI
     *********/
     // TODO
-    "config.open-menu.desc": "The keybind which opens the menu (when no other menu is open).",
-    "config.freeze-time.desc": "The keybind which freezes the game clock.",
-    "config.grow-tree.desc": "The keybind held to grow trees around the player.",
-    "config.grow-crops.desc": "The keybind held to grow crops around the player.",
+    "config.open-menu.desc": "Touche pour ouvrir le menu lorsque aucun autre menu est ouvert.",
+    "config.freeze-time.desc": "Touche à appuyer pour faire arrêter le temps.",
+    "config.grow-tree.desc": "Touche à enfoncer pour faire pousser les arbres autour du joueur.",
+    "config.grow-crops.desc": "Touche à enfoncer pour faire pousser les cultures autour du joueur.",
 
-    "config.title.other-options": "Other options",
-    "config.default-tab.name": "Default tab",
-    "config.default-tab.desc": "The tab shown by default when you open the menu.",
-    "config.other-options": "To configure cheats, press the 'open menu' key shown above in-game. Make sure you press it after loading the save, when no other menu or dialogue is open."
+    "config.title.other-options": "Autres options",
+    "config.default-tab.name": "Onglet par défaut ",
+    "config.default-tab.desc": "L'onglet affiché par défaut quand vous ouvrez le menu.",
+    "config.other-options": "Pour configurer le menu, appuyez sur la touche "Ouvrir ce menu" affichée plus haut pendant la partie. Assurez-vous d'appuyer après avoir ouvert votre partie sauvegardée et qu'il n'y a pas de menu ou de dialogue d'ouvert."
 }
